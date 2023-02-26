@@ -237,5 +237,5 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 }
 
 .w3-half:hover {
-    transform: scale(1.1);
+    transform: scale(1.025);
 }
