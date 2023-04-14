@@ -239,3 +239,11 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .half:hover {
     transform: scale(1.025);
 }
+
+.full {
+   transition: transform .2s;
+}
+
+.full:hover {
+    transform: scale(1.025);
+}
